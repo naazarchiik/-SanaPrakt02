@@ -11,3 +11,4 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+Виконав: Криволап Назарій
